@@ -12,3 +12,6 @@ The model has 6 trained animals : Snake, Peacock, Elephant, Deer, Bird, Dog
 References :
 https://github.com/akshaybahadur21/Emojinator - For the method to train models using handgestures
 https://github.com/kunalgupta777/OpenCV-Face-Filters - For using the face recognition model
+
+https://github.com/srikanthp2019/shadow_art/blob/master/output/Bird%20Mask.png
+
