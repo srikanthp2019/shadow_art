@@ -13,5 +13,14 @@ References :
 https://github.com/akshaybahadur21/Emojinator - For the method to train models using handgestures
 https://github.com/kunalgupta777/OpenCV-Face-Filters - For using the face recognition model
 
-https://github.com/srikanthp2019/shadow_art/blob/master/output/Bird%20Mask.png
+![](output/Bird%20Mask.png)
 
+![](output/Peacock%20Mask.png)
+
+![](output/Snake%20Mask.png)
+
+![](output/Elephant%20Mask.png)
+
+![](output/Dog%20Mask.png)
+
+![](output/Deer%20Mask.png)
